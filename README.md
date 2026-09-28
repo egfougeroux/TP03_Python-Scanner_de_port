@@ -71,7 +71,7 @@ Le script repose exclusivement sur la bibliothèque standard de Python :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/TP-Python-Port-Scanner.git
+git clone [https://github.com/<votre-utilisateur>/TP-Python-Port-Scanner.git](https://github.com/egfougeroux/TP03_Python-Scanner_de_port.git)
 cd TP-Python-Port-Scanner
 ```
 
